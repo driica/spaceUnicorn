@@ -1,14 +1,8 @@
-# Space Kids - Projeto Labecommerce
-
-https://user-images.githubusercontent.com/104701271/218172311-c340ae6c-8c5a-4e31-8c1b-361bcaacfe73.mp4
+# SpaceUnicorn 🦄
 
 ## Introdução
 
-Esse é o projeto de introdução aos fundamentos do React. O objetivo é montar o front-end de um E-commerce com temática espacial. Estrutura que compõe o projeto: JSX, Componentes, Props, Estado, Fluxo de dados no React, Renderização de listas, Renderização condicional e localStorage.
-
-## Link de Acesso
-
-- Deploy no Vercel: [Clique aqui!](https://spacekids.vercel.app/)
+Esse é o projeto de introdução aos fundamentos do React. O objetivo é montar o front-end de um E-commerce com temática de Unicórnio. Estrutura que compõe o projeto: JSX, Componentes, Props, Estado, Fluxo de dados no React, Renderização de listas, Renderização condicional e localStorage.
 
 ## Sobre o Projeto
 
@@ -49,12 +43,6 @@ react-slideshow-image
 - Visualizar página para entrar em contato, de login e de registro. Os inputs estão apenas com validação de type, sem regex.
 - Responsivo para Web, Tablet e Mobile.
 
-### Status do projeto
-
-- Concluído ⏳
-
 ## Contato
 
-E-mail: suuzanemoura@gmail.com
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suuzanemoura/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrianabeatriz3/)

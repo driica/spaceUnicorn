@@ -1,5 +1,7 @@
 # SpaceUnicorn 🦄
 
+ <li><a href="https://space-unicornio.vercel.app/" target="_blank">Clique aqui para ver o projeto</a></li>
+
 ## Introdução
 
 Esse é o projeto de introdução aos fundamentos do React. O objetivo é montar o front-end de um E-commerce com temática de Unicórnio. Estrutura que compõe o projeto: JSX, Componentes, Props, Estado, Fluxo de dados no React, Renderização de listas, Renderização condicional e localStorage.
